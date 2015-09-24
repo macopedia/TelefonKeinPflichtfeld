@@ -1,3 +1,1 @@
-Mini-Magento Modul welches das Feld Telefon als Pflichtfeld entfernt.
-
-Das Modul ist z.Z. auf 'Dsdata_NoState' angewiesen damit es problemlos funktioniert.
+Mini-Magento module to remove required telephone field in customer address.
